@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "👀 Vision"
+    },
+    {
+      "description": "Collection of works about Image + LLMs, Diffusion, see Image for details\nRelated Collections (Understanding)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Multimodal-Large-Language-Models",
+          "description": ", A curated list of Multimodal Large Language Models (MLLMs), including datasets, multimodal instruction tuning, multimodal in-context learning, multimodal chain-of-thought, llm-aided visual reasoning, foundation models, and others. This list will be updated in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T02:37:33Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Multimodal-ML",
+          "description": ", Reading list for research topics in multimodal machine learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-20T19:46:33Z",
+            "owner": "pliang279",
+            "repo": "awesome-multimodal-ml",
+            "stars": 6923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Transformer-Attention",
+          "description": ", This repo contains a comprehensive paper list of Vision Transformer & Attention, including papers, codes, and related websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-30T06:57:18Z",
+            "owner": "cmhungsteve",
+            "repo": "Awesome-Transformer-Attention",
+            "stars": 5048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLM_survey",
+          "description": ", This is the repository of \"Vision Language Models for Vision Tasks: a Survey\", a systematic survey of VLM studies in various visual recognition tasks including image classification, object detection, semantic segmentation, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T09:40:40Z",
+            "owner": "jingyi0000",
+            "repo": "VLM_survey",
+            "stars": 3129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Multimodal-Research",
+          "description": ", This repo is reorganized from Awesome-Multimodal-ML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-05T05:44:56Z",
+            "owner": "Eurus-Holmes",
+            "repo": "Awesome-Multimodal-Research",
+            "stars": 1393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVinW_Readings",
+          "description": ", A collection of papers on the topic of Computer Vision in the Wild (CVinW)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-14T18:59:10Z",
+            "owner": "Computer-Vision-in-the-Wild",
+            "repo": "CVinW_Readings",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-in-Vision",
+          "description": ", Recent LLM (Large Language Models)-based CV and multi-modal works",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-08T06:31:18Z",
+            "owner": "DirtyHarryLYL",
+            "repo": "LLM-in-Vision",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Referring-Image-Segmentation",
+          "description": ", A collection of referring image (video, 3D) segmentation papers and datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-28T12:13:10Z",
+            "owner": "MarkMoHR",
+            "repo": "Awesome-Referring-Image-Segmentation",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal-AND-Large-Language-Models",
+          "description": ", Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-21T19:17:08Z",
+            "owner": "Yangyi-Chen",
+            "repo": "Multimodal-AND-Large-Language-Models",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Vision-and-Language",
+          "description": ", A curated list of awesome vision and language resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-04T05:17:21Z",
+            "owner": "sangminwoo",
+            "repo": "awesome-vision-and-language",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Prompting-on-Vision-Language-Model",
+          "description": ", This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-18T09:27:42Z",
+            "owner": "JindongGu",
+            "repo": "Awesome-Prompting-on-Vision-Language-Model",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mamba-in-CV",
+          "description": ", A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T14:41:31Z",
+            "owner": "Yangzhangcst",
+            "repo": "Mamba-in-CV",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient-Multimodal-LLMs-Survey",
+          "description": ", Efficient Multimodal Large Language Models: A Survey",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-29T12:54:36Z",
+            "owner": "swordlidev",
+            "repo": "Efficient-Multimodal-LLMs-Survey",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient_Foundation_Model_Survey",
+          "description": ", This repo contains the paper list and figures for A Survey of Resource-efficient LLM and Multimodal Foundation Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-22T14:12:40Z",
+            "owner": "UbiquitousLearning",
+            "repo": "Efficient_Foundation_Model_Survey",
+            "stars": 266
+          }
+        }
+      ],
+      "title": "🖼 Image"
+    },
+    {
+      "description": "Collection of works about 3D+LLM, see 3D for details\nRelated Collections",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-3D-gaussian-splatting",
+          "description": ", A curated list of papers and open-source resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:14:18Z",
+            "owner": "MrNeRF",
+            "repo": "awesome-3D-gaussian-splatting",
+            "stars": 8815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-LLM-3D",
+          "description": ", a curated list of Multi-modal Large Language Model in 3D world Resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T16:28:04Z",
+            "owner": "ActiveVisionLab",
+            "repo": "Awesome-LLM-3D",
+            "stars": 2247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-scene-understanding",
+          "description": ", A list of awesome scene understanding papers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-08-07T03:57:02Z",
+            "owner": "bertjiazheng",
+            "repo": "awesome-scene-understanding",
+            "stars": 820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-3D-Vision-and-Language",
+          "description": ", A curated list of research papers in 3D visual grounding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-26T04:08:03Z",
+            "owner": "jianghaojun",
+            "repo": "Awesome-3D-Vision-and-Language",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "📷 3D"
+    },
+    {
+      "description": "Collection of existing popular vision encoder, see Vision Encoder for details",
+      "items": [],
+      "title": "👁️ Vision Encoder"
+    },
+    {
+      "description": "Collection of works about audio+LLM, see Audio for details\nRelated Collections",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audio-AI-Timeline",
+          "description": ", Here we will keep track of the latest AI models for waveform based audio generation, starting in 2023!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-04T01:15:07Z",
+            "owner": "archinetai",
+            "repo": "audio-ai-timeline",
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speech-trident",
+          "description": ", Awesome speech/audio LLMs, representation learning, and codec models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-10T16:30:43Z",
+            "owner": "ga642381",
+            "repo": "speech-trident",
+            "stars": 1244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-large-audio-models",
+          "description": ", Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-08T02:56:30Z",
+            "owner": "EmulationAI",
+            "repo": "awesome-large-audio-models",
+            "stars": 736
+          }
+        }
+      ],
+      "title": "👂 Audio"
+    },
+    {
+      "description": "Collection of works about agent learning, see Agent for details\nRelated Collections",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLM-Agent-Paper-List",
+          "description": ", In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-12T03:08:58Z",
+            "owner": "WooooDyy",
+            "repo": "LLM-Agent-Paper-List",
+            "stars": 8171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-LLMOps",
+          "description": ", An awesome & curated list of best LLMOps tools for developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-21T09:12:50Z",
+            "owner": "tensorchord",
+            "repo": "Awesome-LLMOps",
+            "stars": 5914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMAgentPapers",
+          "description": ", Must-read Papers on Large Language Model Agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T00:29:18Z",
+            "owner": "zjunlp",
+            "repo": "LLMAgentPapers",
+            "stars": 3101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LLM-Powered Agent",
+          "description": ", Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-30T03:42:08Z",
+            "owner": "hyp1231",
+            "repo": "awesome-llm-powered-agent",
+            "stars": 2254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolLearningPapers",
+          "description": ", Must-read papers on tool learning with foundation models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-24T14:03:50Z",
+            "owner": "thunlp",
+            "repo": "ToolLearningPapers",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XLang Paper Reading",
+          "description": ", Paper collection on building and evaluating language model agents via executable language grounding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-29T04:23:11Z",
+            "owner": "xlang-ai",
+            "repo": "xlang-paper-reading",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Agent-Paper-Digest",
+          "description": ", For benefiting the research community and promoting LLM-powered agent direction, we organize papers related to LLM-powered agent that published on top conferences recently",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-14T11:15:02Z",
+            "owner": "XueyangFeng",
+            "repo": "LLM-Agent-Paper-Digest",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LMs with Tools",
+          "description": ", Language models (LMs) are powerful yet mostly for text-generation tasks. Tools have substantially enhanced their performance for tasks that require complex skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-14T18:46:01Z",
+            "owner": "zorazrw",
+            "repo": "awesome-tool-llm",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World Model Papers",
+          "description": ", , Paper collections of the continuous effort start from World Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-06T03:13:28Z",
+            "owner": "Timothyxxx",
+            "repo": "WorldModelPapers",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-ALM",
+          "description": ", This repo collect research papers about leveraging the capabilities of language models, which can be a good reference for building upper-layer applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T02:50:55Z",
+            "owner": "pbhu1024",
+            "repo": "awesome-augmented-language-model",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "🔧 Agent"
+    },
+    {
+      "description": "Collection of works about robotics+LLM, see Robotic for details\nRelated Collections (Robotics)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-LLM-Robotics",
+          "description": ", This repo contains a curative list of papers using Large Language/Multi-Modal Models for Robotics/RL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-17T20:28:18Z",
+            "owner": "GT-RIPL",
+            "repo": "Awesome-LLM-Robotics",
+            "stars": 4448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptCraft-Robotics",
+          "description": ", The PromptCraft-Robotics repository serves as a community for people to test and share interesting prompting examples for large language models (LLMs) within the robotics domain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T20:38:07Z",
+            "owner": "microsoft",
+            "repo": "PromptCraft-Robotics",
+            "stars": 2110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Robotics",
+          "description": ", A curated list of awesome links and software libraries that are useful for robots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-10T07:45:21Z",
+            "owner": "ahundt",
+            "repo": "awesome-robotics",
+            "stars": 1470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Robotics-Foundation-Models",
+          "description": ", This is the partner repository for the survey paper \"Foundation Models in Robotics: Applications, Challenges, and the Future\". The authors hope this repository can act as a quick reference for roboticists who wish to read the relevant papers and implement the associated methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-07T19:03:58Z",
+            "owner": "robotics-survey",
+            "repo": "Awesome-Robotics-Foundation-Models",
+            "stars": 1394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
+          "description": ", A professionally curated list of Large (Language) Models and Foundation Models (LLM, LM, FM) for Temporal Data (Time Series, Spatio-temporal, and Event Data) with awesome resources (paper, code, data, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-22T08:19:51Z",
+            "owner": "qingsongedu",
+            "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
+          "description": ", Temporal Action Detection & Weakly Supervised & Semi Supervised Temporal Action Detection & Temporal Action Proposal Generation & Open-Vocabulary Temporal Action Detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T09:53:37Z",
+            "owner": "zhenyingfang",
+            "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simulately",
+          "description": ", a website where we gather useful information of physics simulator for cutting-edge robot learning research. It is still under active development, so stay tuned!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-22T04:12:06Z",
+            "owner": "RoboVerseOrg",
+            "repo": "Simulately",
+            "stars": 548
+          }
+        }
+      ],
+      "title": "🤖 Robotic"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔬 Science"
+    },
+    {
+      "description": "Please freely create a pull request or drop me an email: flagwyx@gmail.com",
+      "items": [],
+      "title": "🙌 Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:10:59.217Z",
+    "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
+    "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Colorful-LLM",
+    "enhanced_repository_description": null,
+    "title": "Awesome Colorful LLM with stars"
+  }
+}
