@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17977
+            "stars": 17978
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-05-21T19:17:08Z",
             "owner": "Yangyi-Chen",
             "repo": "Multimodal-AND-Large-Language-Models",
-            "stars": 760
+            "stars": 761
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-14T08:49:02Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8819
+            "stars": 8820
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-16T16:28:04Z",
             "owner": "ActiveVisionLab",
             "repo": "Awesome-LLM-3D",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-01-04T01:15:07Z",
             "owner": "archinetai",
             "repo": "audio-ai-timeline",
-            "stars": 1908
+            "stars": 1907
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5916
+            "stars": 5914
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2024-01-20T20:38:07Z",
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2110
+            "stars": 2111
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1474
+            "stars": 1476
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:49:52.523Z",
+    "last_updated": "2026-08-16T23:49:35.262Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
     "enhanced_repository": "enhansome/enhansome-Awesome-Colorful-LLM",
