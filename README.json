@@ -33,7 +33,7 @@
             "last_commit": "2024-08-20T19:46:33Z",
             "owner": "pliang279",
             "repo": "awesome-multimodal-ml",
-            "stars": 6924
+            "stars": 6926
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-10-14T09:40:40Z",
             "owner": "jingyi0000",
             "repo": "VLM_survey",
-            "stars": 3128
+            "stars": 3127
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-03-03T14:41:31Z",
             "owner": "Yangzhangcst",
             "repo": "Mamba-in-CV",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2024-09-22T14:12:40Z",
             "owner": "UbiquitousLearning",
             "repo": "Efficient_Foundation_Model_Survey",
-            "stars": 266
+            "stars": 267
           }
         }
       ],
@@ -221,7 +221,7 @@
             "last_commit": "2026-08-14T08:49:02Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8820
+            "stars": 8822
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-16T16:28:04Z",
             "owner": "ActiveVisionLab",
             "repo": "Awesome-LLM-3D",
-            "stars": 2248
+            "stars": 2249
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5914
+            "stars": 5916
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-07-27T00:29:18Z",
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3101
+            "stars": 3102
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-07-21T09:53:37Z",
             "owner": "zhenyingfang",
             "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:49:35.262Z",
+    "last_updated": "2026-08-17T23:51:29.087Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
     "enhanced_repository": "enhansome/enhansome-Awesome-Colorful-LLM",
