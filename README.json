@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17978
+            "stars": 17981
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2025-03-08T06:31:18Z",
             "owner": "DirtyHarryLYL",
             "repo": "LLM-in-Vision",
-            "stars": 871
+            "stars": 870
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-05-21T19:17:08Z",
             "owner": "Yangyi-Chen",
             "repo": "Multimodal-AND-Large-Language-Models",
-            "stars": 761
+            "stars": 760
           }
         },
         {
@@ -218,10 +218,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:49:02Z",
+            "last_commit": "2026-08-18T09:59:38Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8822
+            "stars": 8825
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-16T16:28:04Z",
             "owner": "ActiveVisionLab",
             "repo": "Awesome-LLM-3D",
-            "stars": 2249
+            "stars": 2251
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2025-09-12T03:08:58Z",
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8172
+            "stars": 8173
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5916
+            "stars": 5915
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-07-27T00:29:18Z",
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3102
+            "stars": 3103
           }
         },
         {
@@ -482,7 +482,7 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4451
+            "stars": 4452
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2024-01-20T20:38:07Z",
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2111
+            "stars": 2112
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:51:29.087Z",
+    "last_updated": "2026-08-18T23:51:48.161Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
     "enhanced_repository": "enhansome/enhansome-Awesome-Colorful-LLM",
