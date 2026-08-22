@@ -62,7 +62,7 @@
                 "last_commit": "2025-10-14T09:40:40Z",
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3127
+                "stars": 3128
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2026-08-12T07:01:51Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3269
+                "stars": 3271
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2025-10-09T12:07:05Z",
                 "owner": "ttengwang",
                 "repo": "Awesome_Long_Form_Video_Understanding",
-                "stars": 382
+                "stars": 383
               }
             }
           ],
@@ -406,7 +406,7 @@
                 "last_commit": "2026-04-16T16:28:04Z",
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2251
+                "stars": 2253
               }
             },
             {
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4453
+            "stars": 4455
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1477
+            "stars": 1478
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2026-06-10T02:53:35Z",
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2025-06-13T18:55:49Z",
             "owner": "ChanganVR",
             "repo": "awesome-embodied-vision",
-            "stars": 705
+            "stars": 706
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2025-06-03T15:13:28Z",
             "owner": "haoranD",
             "repo": "Awesome-Embodied-AI",
-            "stars": 527
+            "stars": 528
           }
         }
       ],
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:52:39.306Z",
+    "last_updated": "2026-08-22T23:50:31.245Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_id": 614868248,
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
