@@ -272,7 +272,7 @@
                 "last_commit": "2024-08-01T07:11:20Z",
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12364
+                "stars": 12363
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8828
+                "stars": 8830
               }
             },
             {
@@ -528,7 +528,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5917
+            "stars": 5918
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-07-27T00:29:18Z",
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3104
+            "stars": 3105
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2024-01-20T20:38:07Z",
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2114
+            "stars": 2115
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2024-10-07T19:03:58Z",
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1396
+            "stars": 1398
           }
         },
         {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:50:31.245Z",
+    "last_updated": "2026-08-23T23:50:57.257Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_id": 614868248,
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
