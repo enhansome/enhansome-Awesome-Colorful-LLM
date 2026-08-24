@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T16:19:20Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17987
+                "stars": 17988
               }
             },
             {
@@ -329,6 +329,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome-Video-Datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352426910,
+                "language": null,
+                "last_commit": "2023-03-08T19:08:48Z",
+                "owner": "xiaobai1217",
+                "repo": "Awesome-Video-Datasets",
+                "stars": 1659
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Awesome-LLMs-for-Video-Understanding",
               "description": ", Latest Papers, Codes and Datasets on Vid-LLMs.",
               "children": [],
@@ -336,10 +351,10 @@
                 "archived": false,
                 "id": 666960664,
                 "language": null,
-                "last_commit": "2026-08-12T07:01:51Z",
+                "last_commit": "2026-08-24T08:22:10Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3271
+                "stars": 3272
               }
             },
             {
@@ -351,7 +366,7 @@
                 "archived": false,
                 "id": 853227707,
                 "language": null,
-                "last_commit": "2026-08-10T03:48:37Z",
+                "last_commit": "2026-08-24T03:15:47Z",
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
                 "stars": 948
@@ -369,7 +384,22 @@
                 "last_commit": "2025-10-09T12:07:05Z",
                 "owner": "ttengwang",
                 "repo": "Awesome_Long_Form_Video_Understanding",
-                "stars": 383
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "i2vgen-xl",
+              "description": ", VGen is an open-source video synthesis codebase developed by the Tongyi Lab of Alibaba Group, featuring state-of-the-art video generative models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714940169,
+                "language": "Python",
+                "last_commit": "2025-01-10T09:09:13Z",
+                "owner": "ali-vilab",
+                "repo": "VGen",
+                "stars": 3155
               }
             }
           ],
@@ -443,6 +473,28 @@
           "description": "Collection of works about 3D+LLM, see 3D for details\nReading List\nRelated Collections",
           "node_type": "group",
           "title": "📷 3D"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Document Understanding",
+              "description": ", A curated list of resources for Document Understanding (DU) topic related to Intelligent Document Processing (IDP), which is relative to Robotic Process Automation (RPA) from unstructured data, especially form Visually Rich Documents (VRDs).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355337917,
+                "language": null,
+                "last_commit": "2023-06-02T03:56:06Z",
+                "owner": "tstanislawek",
+                "repo": "awesome-document-understanding",
+                "stars": 1534
+              }
+            }
+          ],
+          "description": "Related Collections",
+          "node_type": "group",
+          "title": "📰 Document"
         }
       ],
       "title": "👀 Vision"
@@ -513,7 +565,7 @@
             "last_commit": "2025-09-12T03:08:58Z",
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8178
+            "stars": 8180
           }
         },
         {
@@ -528,7 +580,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5918
+            "stars": 5919
           }
         },
         {
@@ -543,7 +595,7 @@
             "last_commit": "2026-07-27T00:29:18Z",
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3105
+            "stars": 3107
           }
         },
         {
@@ -806,13 +858,78 @@
             "repo": "Awesome-Embodied-AI",
             "stars": 528
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-LLM4AD",
+          "description": ", A curated list of awesome LLM for Autonomous Driving resources (continually updated)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 701419101,
+            "language": null,
+            "last_commit": "2026-06-22T14:29:16Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "Awesome-LLM4AD",
+            "stars": 1892
+          }
         }
       ],
       "title": "🤖 Robotic"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-Scientific-Language-Models",
+              "description": ", A curated list of pre-trained language models in scientific domains (e.g., mathematics, physics, chemistry, biology, medicine, materials science, and geoscience), covering different model sizes (from <100M to 70B parameters) and modalities (e.g., language, vision, molecule, protein, graph, and table)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739217887,
+                "language": null,
+                "last_commit": "2025-06-21T11:59:38Z",
+                "owner": "yuzhimanhua",
+                "repo": "Awesome-Scientific-Language-Models",
+                "stars": 663
+              }
+            }
+          ],
+          "description": "Collection of works about Mathematics + LLMs, see AI4Math for details\nReading List\nRelated Collections",
+          "node_type": "group",
+          "title": "♾️ AI for Math"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CAJAL",
+              "description": ", A fine-tuned open-source LLM (Qwen3.6 base) specialized for generating publication-ready scientific papers. Runs 100% locally with 4B–9B parameters, ranked #3 on scientific paper benchmarks, surpassing most SOTA cloud models including Claude Sonnet 4.6 competitors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1227155975,
+                "language": "Python",
+                "last_commit": "2026-06-02T07:20:07Z",
+                "owner": "Agnuxo1",
+                "repo": "CAJAL",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📝 AI for Scientific Research"
+        }
+      ],
+      "title": "🔬 Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:50:57.257Z",
+    "last_updated": "2026-08-24T14:40:56.201Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_id": 614868248,
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
