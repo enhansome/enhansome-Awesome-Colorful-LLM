@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T16:19:20Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17990
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-20T19:46:33Z",
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6926
+                "stars": 6925
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2025-03-18T09:27:42Z",
                 "owner": "JindongGu",
                 "repo": "Awesome-Prompting-on-Vision-Language-Model",
-                "stars": 514
+                "stars": 513
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2024-08-01T07:11:20Z",
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12364
+                "stars": 12363
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8831
+                "stars": 8832
               }
             },
             {
@@ -751,7 +751,7 @@
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1478
+            "stars": 1479
           }
         },
         {
@@ -811,7 +811,7 @@
             "last_commit": "2025-07-22T04:12:06Z",
             "owner": "RoboVerseOrg",
             "repo": "Simulately",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -826,7 +826,7 @@
             "last_commit": "2026-06-10T02:53:35Z",
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2152
+            "stars": 2153
           }
         },
         {
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:15.322Z",
+    "last_updated": "2026-08-25T23:52:46.033Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_id": 614868248,
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
