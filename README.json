@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8830
+                "stars": 8831
               }
             },
             {
@@ -529,7 +529,7 @@
             "last_commit": "2026-07-10T16:30:43Z",
             "owner": "ga642381",
             "repo": "speech-trident",
-            "stars": 1245
+            "stars": 1246
           }
         },
         {
@@ -565,7 +565,7 @@
             "last_commit": "2025-09-12T03:08:58Z",
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8180
+            "stars": 8181
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2026-07-27T00:29:18Z",
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:51:31.079Z",
+    "last_updated": "2026-08-25T06:29:15.322Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_id": 614868248,
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
