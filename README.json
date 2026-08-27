@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17988
+                "stars": 17989
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2024-03-14T18:59:10Z",
                 "owner": "Computer-Vision-in-the-Wild",
                 "repo": "CVinW_Readings",
-                "stars": 1373
+                "stars": 1374
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-11-04T05:17:21Z",
                 "owner": "sangminwoo",
                 "repo": "awesome-vision-and-language",
-                "stars": 563
+                "stars": 564
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2024-09-22T14:12:40Z",
                 "owner": "UbiquitousLearning",
                 "repo": "Efficient_Foundation_Model_Survey",
-                "stars": 267
+                "stars": 266
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8837
+                "stars": 8839
               }
             },
             {
@@ -610,7 +610,7 @@
             "last_commit": "2025-04-30T03:42:08Z",
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2255
+            "stars": 2256
           }
         },
         {
@@ -894,7 +894,7 @@
                 "last_commit": "2025-06-21T11:59:38Z",
                 "owner": "yuzhimanhua",
                 "repo": "Awesome-Scientific-Language-Models",
-                "stars": 663
+                "stars": 664
               }
             }
           ],
@@ -929,9 +929,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:58:25.259Z",
-    "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
-    "original_repository_id": 614868248,
+    "last_updated": "2026-08-27T11:21:47.453Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 614868248,
+      "language": null,
+      "last_commit": "2026-05-07T01:50:42Z",
+      "owner": "patrick-tssn",
+      "repo": "Awesome-Colorful-LLM",
+      "stars": 129
+    },
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
     "enhanced_repository": "enhansome/enhansome-Awesome-Colorful-LLM",
     "enhanced_repository_description": null,
