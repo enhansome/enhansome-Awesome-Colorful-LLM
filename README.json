@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17990
+                "stars": 17988
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-20T19:46:33Z",
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6925
+                "stars": 6926
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-03-03T14:41:31Z",
                 "owner": "Yangzhangcst",
                 "repo": "Mamba-in-CV",
-                "stars": 492
+                "stars": 493
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2025-09-27T11:45:33Z",
                 "owner": "showlab",
                 "repo": "Awesome-MLLM-Hallucination",
-                "stars": 1039
+                "stars": 1038
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-24T08:22:10Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3272
+                "stars": 3273
               }
             },
             {
@@ -366,10 +366,10 @@
                 "archived": false,
                 "id": 853227707,
                 "language": null,
-                "last_commit": "2026-08-24T03:15:47Z",
+                "last_commit": "2026-08-26T05:44:57Z",
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
-                "stars": 948
+                "stars": 949
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2025-10-09T12:07:05Z",
                 "owner": "ttengwang",
                 "repo": "Awesome_Long_Form_Video_Understanding",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-18T09:59:38Z",
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8832
+                "stars": 8837
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-04-16T16:28:04Z",
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2253
+                "stars": 2254
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2023-06-02T03:56:06Z",
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
-                "stars": 1534
+                "stars": 1536
               }
             }
           ],
@@ -565,7 +565,7 @@
             "last_commit": "2025-09-12T03:08:58Z",
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8181
+            "stars": 8182
           }
         },
         {
@@ -580,7 +580,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5920
+            "stars": 5921
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2025-04-30T03:42:08Z",
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2253
+            "stars": 2255
           }
         },
         {
@@ -721,7 +721,7 @@
             "last_commit": "2026-07-17T20:28:18Z",
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4455
+            "stars": 4457
           }
         },
         {
@@ -826,7 +826,7 @@
             "last_commit": "2026-06-10T02:53:35Z",
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2153
+            "stars": 2155
           }
         },
         {
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:52:46.033Z",
+    "last_updated": "2026-08-27T04:58:25.259Z",
     "original_repository": "patrick-tssn/Awesome-Colorful-LLM",
     "original_repository_id": 614868248,
     "original_repository_sha": "8650cbf2bfadd5b5b8b2ae3cf04e58543c3b8a52",
