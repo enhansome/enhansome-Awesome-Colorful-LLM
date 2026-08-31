@@ -227,7 +227,7 @@
                 "open_issues": 2,
                 "owner": "MarkMoHR",
                 "repo": "Awesome-Referring-Image-Segmentation",
-                "stars": 828,
+                "stars": 829,
                 "topics": [
                   "image-segmentation",
                   "instance-segmentation",
@@ -483,7 +483,7 @@
                 "open_issues": 27,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12365,
+                "stars": 12364,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -647,7 +647,7 @@
                 "open_issues": 6,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3276,
+                "stars": 3279,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -750,7 +750,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-29T22:00:37Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
                 "stars": 8842,
@@ -863,7 +863,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-02T03:56:06Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
                 "stars": 1537,
@@ -1006,7 +1006,7 @@
             "open_issues": 31,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8183,
+            "stars": 8182,
             "topics": [
               "agent",
               "large-language-models",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-05-21T09:12:50Z",
-            "open_issues": 259,
+            "open_issues": 261,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5922,
+            "stars": 5921,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1059,7 +1059,7 @@
             "open_issues": 1,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3110,
+            "stars": 3106,
             "topics": [
               "agent",
               "agents",
@@ -1283,7 +1283,7 @@
             "open_issues": 10,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4459,
+            "stars": 4458,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1480,
+            "stars": 1481,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1477,7 +1477,7 @@
             "open_issues": 2,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2156,
+            "stars": 2158,
             "topics": [
               "agent",
               "causality",
@@ -1613,7 +1613,7 @@
                 "open_issues": 3,
                 "owner": "yuzhimanhua",
                 "repo": "Awesome-Scientific-Language-Models",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "ai4science",
                   "awesome-resources",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:35:39.520Z",
+    "last_updated": "2026-08-31T01:33:14.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
