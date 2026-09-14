@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18008,
+                "stars": 18009,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1006,7 +1006,7 @@
             "open_issues": 32,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8221,
+            "stars": 8220,
             "topics": [
               "agent",
               "large-language-models",
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-05-21T09:12:50Z",
-            "open_issues": 289,
+            "open_issues": 294,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5930,
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3114,
+            "stars": 3116,
             "topics": [
               "agent",
               "agents",
@@ -1283,7 +1283,7 @@
             "open_issues": 11,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4462,
+            "stars": 4463,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1487,
+            "stars": 1486,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1374,7 +1374,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1405,
+            "stars": 1407,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1449,7 +1449,7 @@
             "open_issues": 3,
             "owner": "RoboVerseOrg",
             "repo": "Simulately",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "awesome",
               "embodied-ai",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:22:09.889Z",
+    "last_updated": "2026-09-14T01:32:28.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
