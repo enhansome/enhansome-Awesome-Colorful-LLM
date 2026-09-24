@@ -21,7 +21,7 @@
                 "open_issues": 113,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18032,
+                "stars": 18035,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -56,7 +56,7 @@
                 "open_issues": 13,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6934,
+                "stars": 6935,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -285,7 +285,7 @@
                 "open_issues": 1,
                 "owner": "sangminwoo",
                 "repo": "awesome-vision-and-language",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -407,7 +407,7 @@
                 "open_issues": 5,
                 "owner": "showlab",
                 "repo": "Awesome-MLLM-Hallucination",
-                "stars": 1042,
+                "stars": 1044,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -483,7 +483,7 @@
                 "open_issues": 28,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12370,
+                "stars": 12371,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -647,7 +647,7 @@
                 "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3287,
+                "stars": 3289,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -668,7 +668,7 @@
                 "open_issues": 1,
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
-                "stars": 956,
+                "stars": 957,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -750,10 +750,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-12T12:28:35Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8898,
+                "stars": 8903,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -780,7 +780,7 @@
                 "open_issues": 7,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2261,
+                "stars": 2262,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -965,7 +965,7 @@
             "open_issues": 1,
             "owner": "EmulationAI",
             "repo": "awesome-large-audio-models",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "audio-ai",
               "audio-processing",
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-05-21T09:12:50Z",
-            "open_issues": 319,
+            "open_issues": 324,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5945,
@@ -1283,7 +1283,7 @@
             "open_issues": 12,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4473,
+            "stars": 4472,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1509,7 +1509,7 @@
             "open_issues": 4,
             "owner": "ChanganVR",
             "repo": "awesome-embodied-vision",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "awesome-list",
               "curated-list",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:43:09.946Z",
+    "last_updated": "2026-09-24T01:37:01.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
