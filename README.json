@@ -17,11 +17,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-18T03:09:18Z",
+                "last_commit": "2026-10-01T02:35:51Z",
                 "open_issues": 114,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18041,
+                "stars": 18043,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -56,7 +56,7 @@
                 "open_issues": 13,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6938,
+                "stars": 6939,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -483,7 +483,7 @@
                 "open_issues": 28,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12375,
+                "stars": 12374,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -626,7 +626,7 @@
                 "open_issues": 8,
                 "owner": "xiaobai1217",
                 "repo": "Awesome-Video-Datasets",
-                "stars": 1666,
+                "stars": 1667,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -668,7 +668,7 @@
                 "open_issues": 2,
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
-                "stars": 957,
+                "stars": 958,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -689,7 +689,7 @@
                 "open_issues": 4,
                 "owner": "ttengwang",
                 "repo": "Awesome_Long_Form_Video_Understanding",
-                "stars": 387,
+                "stars": 386,
                 "topics": [
                   "audio-visual-event-localization",
                   "dense-video-captioning",
@@ -753,7 +753,7 @@
                 "open_issues": 6,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8915,
+                "stars": 8916,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1003,7 +1003,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-12T03:08:58Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
             "stars": 8222,
@@ -1029,8 +1029,8 @@
             "id": 481805419,
             "language": "Shell",
             "license": "CC0-1.0",
-            "last_commit": "2026-05-21T09:12:50Z",
-            "open_issues": 335,
+            "last_commit": "2026-10-01T14:07:05Z",
+            "open_issues": 263,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5951,
@@ -1056,7 +1056,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-12T02:00:19Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
             "stars": 3123,
@@ -1332,7 +1332,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1499,
+            "stars": 1498,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1374,7 +1374,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1415,
+            "stars": 1414,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1425,10 +1425,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-14T06:25:08Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "zhenyingfang",
             "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
-            "stars": 591,
+            "stars": 592,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 3,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2177,
+            "stars": 2178,
             "topics": [
               "agent",
               "causality",
@@ -1509,7 +1509,7 @@
             "open_issues": 5,
             "owner": "ChanganVR",
             "repo": "awesome-embodied-vision",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "awesome-list",
               "curated-list",
@@ -1534,10 +1534,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-06-03T15:13:28Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "haoranD",
             "repo": "Awesome-Embodied-AI",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1579,7 +1579,7 @@
             "open_issues": 1,
             "owner": "Thinklab-SJTU",
             "repo": "Awesome-LLM4AD",
-            "stars": 1890,
+            "stars": 1889,
             "topics": [
               "large-language-models",
               "vision-language-action-model",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:20:50.943Z",
+    "last_updated": "2026-10-02T02:31:43.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
