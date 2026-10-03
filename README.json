@@ -159,7 +159,7 @@
                 "open_issues": 1,
                 "owner": "Eurus-Holmes",
                 "repo": "Awesome-Multimodal-Research",
-                "stars": 1399,
+                "stars": 1400,
                 "topics": [
                   "awesome",
                   "multimodal",
@@ -415,7 +415,7 @@
             {
               "node_type": "item",
               "title": "awesome-Large-MultiModal-Hallucination",
-              "description": null,
+              "description": "xieyuquanxx/awesome-Large-MultiModal-Hallucination",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -441,7 +441,7 @@
             {
               "node_type": "item",
               "title": "Awesome-MLLM-Reasoning-Benchmarks",
-              "description": null,
+              "description": "Wild-Cooperation-Hub/Awesome-MLLM-Reasoning-Benchmarks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "Awesome-Video-Datasets",
-              "description": null,
+              "description": "xiaobai1217/Awesome-Video-Datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-02T07:11:56Z",
-            "open_issues": 255,
+            "open_issues": 256,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5953,
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:16:48.571Z",
+    "last_updated": "2026-10-03T04:26:32.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
