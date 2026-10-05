@@ -21,7 +21,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18043,
+                "stars": 18044,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -185,7 +185,7 @@
                 "open_issues": 11,
                 "owner": "Computer-Vision-in-the-Wild",
                 "repo": "CVinW_Readings",
-                "stars": 1374,
+                "stars": 1373,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -407,7 +407,7 @@
                 "open_issues": 6,
                 "owner": "showlab",
                 "repo": "Awesome-MLLM-Hallucination",
-                "stars": 1046,
+                "stars": 1045,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -626,7 +626,7 @@
                 "open_issues": 8,
                 "owner": "xiaobai1217",
                 "repo": "Awesome-Video-Datasets",
-                "stars": 1667,
+                "stars": 1666,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -749,11 +749,11 @@
                 "id": 705222810,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T19:24:24Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-04T04:41:54Z",
+                "open_issues": 6,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8919,
+                "stars": 8924,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -863,7 +863,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-06-02T03:56:06Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
                 "stars": 1542,
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-02T07:11:56Z",
-            "open_issues": 258,
+            "open_issues": 264,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5953,
+            "stars": 5954,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3122,
+            "stars": 3123,
             "topics": [
               "agent",
               "agents",
@@ -1280,10 +1280,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-17T20:28:18Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4477,
+            "stars": 4476,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1499,
+            "stars": 1501,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:50:10.093Z",
+    "last_updated": "2026-10-05T02:19:59.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
