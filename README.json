@@ -56,7 +56,7 @@
                 "open_issues": 13,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6941,
+                "stars": 6940,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -89,7 +89,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5045,
+                "stars": 5044,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -550,7 +550,7 @@
                 "open_issues": 3,
                 "owner": "atfortes",
                 "repo": "Awesome-Controllable-Diffusion",
-                "stars": 504,
+                "stars": 503,
                 "topics": [
                   "controlnet",
                   "customization",
@@ -644,7 +644,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-27T07:07:06Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
                 "stars": 3293,
@@ -722,7 +722,7 @@
                 "open_issues": 115,
                 "owner": "ali-vilab",
                 "repo": "VGen",
-                "stars": 3155,
+                "stars": 3154,
                 "topics": [
                   "diffusion-models",
                   "video-synthesis"
@@ -780,7 +780,7 @@
                 "open_issues": 8,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2269,
+                "stars": 2270,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-05T08:40:57Z",
-            "open_issues": 256,
+            "open_issues": 259,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5953,
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3122,
+            "stars": 3123,
             "topics": [
               "agent",
               "agents",
@@ -1098,7 +1098,7 @@
             "open_issues": 73,
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2252,
+            "stars": 2253,
             "topics": [
               "awesome-list",
               "chatgpt",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:28:54.873Z",
+    "last_updated": "2026-10-07T02:40:12.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
