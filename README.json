@@ -21,7 +21,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18058,
+                "stars": 18057,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -129,7 +129,7 @@
                 "open_issues": 2,
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3128,
+                "stars": 3129,
                 "topics": [
                   "clip",
                   "computer-vision",
@@ -483,7 +483,7 @@
                 "open_issues": 31,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12379,
+                "stars": 12380,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -550,7 +550,7 @@
                 "open_issues": 3,
                 "owner": "atfortes",
                 "repo": "Awesome-Controllable-Diffusion",
-                "stars": 504,
+                "stars": 503,
                 "topics": [
                   "controlnet",
                   "customization",
@@ -626,7 +626,7 @@
                 "open_issues": 8,
                 "owner": "xiaobai1217",
                 "repo": "Awesome-Video-Datasets",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -643,11 +643,11 @@
                 "id": 666960664,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-10T06:07:41Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-17T08:14:13Z",
+                "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3296,
+                "stars": 3297,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -722,7 +722,7 @@
                 "open_issues": 115,
                 "owner": "ali-vilab",
                 "repo": "VGen",
-                "stars": 3152,
+                "stars": 3151,
                 "topics": [
                   "diffusion-models",
                   "video-synthesis"
@@ -753,7 +753,7 @@
                 "open_issues": 8,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8949,
+                "stars": 8950,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -780,7 +780,7 @@
                 "open_issues": 10,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2268,
+                "stars": 2271,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T06:34:42Z",
-            "open_issues": 301,
+            "open_issues": 308,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5960,
@@ -1280,10 +1280,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-10T17:40:43Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4489,
+            "stars": 4491,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:29:04.864Z",
+    "last_updated": "2026-10-18T01:28:14.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
