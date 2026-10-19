@@ -21,7 +21,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18057,
+                "stars": 18055,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -89,7 +89,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5046,
+                "stars": 5045,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -665,7 +665,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-15T06:50:00Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
                 "stars": 964,
@@ -753,7 +753,7 @@
                 "open_issues": 8,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8950,
+                "stars": 8951,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T06:34:42Z",
-            "open_issues": 308,
+            "open_issues": 313,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5960,
+            "stars": 5961,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3131,
+            "stars": 3133,
             "topics": [
               "agent",
               "agents",
@@ -1189,7 +1189,7 @@
             "open_issues": 2,
             "owner": "XueyangFeng",
             "repo": "LLM-Agent-Paper-Digest",
-            "stars": 319,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1280,7 +1280,7 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-10T17:40:43Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
             "stars": 4491,
@@ -1304,7 +1304,7 @@
             "open_issues": 10,
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2119,
+            "stars": 2121,
             "topics": [
               "airsim",
               "chatgpt",
@@ -1332,7 +1332,7 @@
             "open_issues": 9,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1514,
+            "stars": 1515,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1374,7 +1374,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1422,
+            "stars": 1421,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1428,7 +1428,7 @@
             "open_issues": 1,
             "owner": "zhenyingfang",
             "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
-            "stars": 594,
+            "stars": 595,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:28:14.618Z",
+    "last_updated": "2026-10-19T01:35:49.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
