@@ -21,7 +21,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18062,
+                "stars": 18065,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -89,7 +89,7 @@
                 "open_issues": 23,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5046,
+                "stars": 5047,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -129,7 +129,7 @@
                 "open_issues": 2,
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3128,
+                "stars": 3129,
                 "topics": [
                   "clip",
                   "computer-vision",
@@ -285,7 +285,7 @@
                 "open_issues": 1,
                 "owner": "sangminwoo",
                 "repo": "awesome-vision-and-language",
-                "stars": 565,
+                "stars": 566,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -336,7 +336,7 @@
                 "open_issues": 1,
                 "owner": "Yangzhangcst",
                 "repo": "Mamba-in-CV",
-                "stars": 497,
+                "stars": 496,
                 "topics": [
                   "awesome",
                   "computer-vision",
@@ -647,7 +647,7 @@
                 "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3299,
+                "stars": 3300,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -753,7 +753,7 @@
                 "open_issues": 9,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8963,
+                "stars": 8966,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1006,7 +1006,7 @@
             "open_issues": 34,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8256,
+            "stars": 8255,
             "topics": [
               "agent",
               "large-language-models",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T06:34:42Z",
-            "open_issues": 343,
+            "open_issues": 351,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5963,
+            "stars": 5965,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1098,7 +1098,7 @@
             "open_issues": 73,
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2258,
+            "stars": 2259,
             "topics": [
               "awesome-list",
               "chatgpt",
@@ -1283,7 +1283,7 @@
             "open_issues": 17,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4490,
+            "stars": 4491,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1395,7 +1395,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1236,
+            "stars": 1237,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:50:49.822Z",
+    "last_updated": "2026-10-24T01:54:50.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
