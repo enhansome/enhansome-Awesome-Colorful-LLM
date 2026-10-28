@@ -17,11 +17,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 119,
+                "last_commit": "2026-10-27T03:23:34Z",
+                "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18068,
+                "stars": 18070,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6948,
+                "stars": 6949,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -129,7 +129,7 @@
                 "open_issues": 2,
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3129,
+                "stars": 3131,
                 "topics": [
                   "clip",
                   "computer-vision",
@@ -227,7 +227,7 @@
                 "open_issues": 2,
                 "owner": "MarkMoHR",
                 "repo": "Awesome-Referring-Image-Segmentation",
-                "stars": 831,
+                "stars": 830,
                 "topics": [
                   "image-segmentation",
                   "instance-segmentation",
@@ -483,7 +483,7 @@
                 "open_issues": 32,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12380,
+                "stars": 12381,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -643,11 +643,11 @@
                 "id": 666960664,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-17T08:14:13Z",
+                "last_commit": "2026-10-27T09:14:07Z",
                 "open_issues": 7,
-                "owner": "yunlong10",
+                "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3301,
+                "stars": 3302,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -719,10 +719,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-01-10T09:09:13Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "ali-vilab",
                 "repo": "VGen",
-                "stars": 3151,
+                "stars": 3152,
                 "topics": [
                   "diffusion-models",
                   "video-synthesis"
@@ -753,7 +753,7 @@
                 "open_issues": 9,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8970,
+                "stars": 8972,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T06:34:42Z",
-            "open_issues": 364,
+            "open_issues": 370,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5967,
@@ -1055,7 +1055,7 @@
             "id": 642759375,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-27T01:34:26Z",
+            "last_commit": "2026-10-27T16:18:16Z",
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
@@ -1424,7 +1424,7 @@
             "id": 246048203,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-26T07:10:27Z",
+            "last_commit": "2026-10-27T13:12:21Z",
             "open_issues": 1,
             "owner": "zhenyingfang",
             "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
@@ -1579,7 +1579,7 @@
             "open_issues": 3,
             "owner": "Thinklab-SJTU",
             "repo": "Awesome-LLM4AD",
-            "stars": 1900,
+            "stars": 1901,
             "topics": [
               "large-language-models",
               "vision-language-action-model",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:22:10.443Z",
+    "last_updated": "2026-10-28T02:32:54.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
