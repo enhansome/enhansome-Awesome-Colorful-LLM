@@ -17,11 +17,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-27T03:23:34Z",
+                "last_commit": "2026-10-29T06:10:45Z",
                 "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18070,
+                "stars": 18069,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -668,7 +668,7 @@
                 "open_issues": 1,
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
-                "stars": 964,
+                "stars": 965,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -753,7 +753,7 @@
                 "open_issues": 9,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 8975,
+                "stars": 8977,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T06:34:42Z",
-            "open_issues": 376,
+            "open_issues": 388,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5967,
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3139,
+            "stars": 3140,
             "topics": [
               "agent",
               "agents",
@@ -1279,11 +1279,11 @@
             "id": 524119789,
             "language": null,
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-10T17:40:43Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-29T04:41:10Z",
+            "open_issues": 7,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4493,
+            "stars": 4495,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1474,10 +1474,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T02:03:24Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2189,
+            "stars": 2190,
             "topics": [
               "agent",
               "causality",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:45:44.317Z",
+    "last_updated": "2026-10-30T02:52:24.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
