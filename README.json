@@ -21,7 +21,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18082,
+                "stars": 18085,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6955,
+                "stars": 6957,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -89,7 +89,7 @@
                 "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5048,
+                "stars": 5047,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -159,7 +159,7 @@
                 "open_issues": 2,
                 "owner": "Eurus-Holmes",
                 "repo": "Awesome-Multimodal-Research",
-                "stars": 1406,
+                "stars": 1408,
                 "topics": [
                   "awesome",
                   "multimodal",
@@ -407,7 +407,7 @@
                 "open_issues": 6,
                 "owner": "showlab",
                 "repo": "Awesome-MLLM-Hallucination",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -511,7 +511,7 @@
                 "open_issues": 3,
                 "owner": "YingqingHe",
                 "repo": "Awesome-LLMs-meet-Multimodal-Generation",
-                "stars": 551,
+                "stars": 550,
                 "topics": [
                   "aigc",
                   "large-language-models",
@@ -664,7 +664,7 @@
                 "id": 853227707,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-02T03:36:24Z",
+                "last_commit": "2026-11-13T10:57:00Z",
                 "open_issues": 1,
                 "owner": "daixiangzi",
                 "repo": "Awesome-Token-Compress",
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9002,
+                "stars": 9004,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -780,7 +780,7 @@
                 "open_issues": 10,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2284,
+                "stars": 2285,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -965,7 +965,7 @@
             "open_issues": 2,
             "owner": "EmulationAI",
             "repo": "awesome-large-audio-models",
-            "stars": 748,
+            "stars": 747,
             "topics": [
               "audio-ai",
               "audio-processing",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-10T06:43:14Z",
-            "open_issues": 454,
+            "open_issues": 460,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5972,
+            "stars": 5975,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1332,7 +1332,7 @@
             "open_issues": 10,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1526,
+            "stars": 1525,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1374,7 +1374,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1424,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1474,10 +1474,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-21T02:03:24Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2194,
+            "stars": 2196,
             "topics": [
               "agent",
               "causality",
@@ -1537,7 +1537,7 @@
             "open_issues": 7,
             "owner": "haoranD",
             "repo": "Awesome-Embodied-AI",
-            "stars": 539,
+            "stars": 540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:32:51.259Z",
+    "last_updated": "2026-11-14T03:30:15.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
