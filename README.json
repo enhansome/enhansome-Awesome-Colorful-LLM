@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18089,
+                "stars": 18090,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -483,7 +483,7 @@
                 "open_issues": 32,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12384,
+                "stars": 12383,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -626,7 +626,7 @@
                 "open_issues": 8,
                 "owner": "xiaobai1217",
                 "repo": "Awesome-Video-Datasets",
-                "stars": 1671,
+                "stars": 1670,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9007,
+                "stars": 9006,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -780,7 +780,7 @@
                 "open_issues": 10,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2285,
+                "stars": 2284,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 483,
+            "open_issues": 488,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5980,
@@ -1283,7 +1283,7 @@
             "open_issues": 13,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4504,
+            "stars": 4503,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1304,7 +1304,7 @@
             "open_issues": 10,
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2124,
+            "stars": 2123,
             "topics": [
               "airsim",
               "chatgpt",
@@ -1424,7 +1424,7 @@
             "id": 246048203,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-28T11:16:30Z",
+            "last_commit": "2026-11-18T07:00:33Z",
             "open_issues": 1,
             "owner": "zhenyingfang",
             "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
@@ -1477,7 +1477,7 @@
             "open_issues": 9,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2198,
+            "stars": 2197,
             "topics": [
               "agent",
               "causality",
@@ -1537,7 +1537,7 @@
             "open_issues": 7,
             "owner": "haoranD",
             "repo": "Awesome-Embodied-AI",
-            "stars": 540,
+            "stars": 539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1579,7 +1579,7 @@
             "open_issues": 3,
             "owner": "Thinklab-SJTU",
             "repo": "Awesome-LLM4AD",
-            "stars": 1906,
+            "stars": 1907,
             "topics": [
               "large-language-models",
               "vision-language-action-model",
@@ -1662,7 +1662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:40:28.129Z",
+    "last_updated": "2026-11-19T04:27:06.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
