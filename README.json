@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18090,
+                "stars": 18091,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6961,
+                "stars": 6959,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -89,7 +89,7 @@
                 "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5047,
+                "stars": 5045,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -129,7 +129,7 @@
                 "open_issues": 2,
                 "owner": "jingyi0000",
                 "repo": "VLM_survey",
-                "stars": 3134,
+                "stars": 3132,
                 "topics": [
                   "clip",
                   "computer-vision",
@@ -185,7 +185,7 @@
                 "open_issues": 11,
                 "owner": "Computer-Vision-in-the-Wild",
                 "repo": "CVinW_Readings",
-                "stars": 1378,
+                "stars": 1377,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -483,7 +483,7 @@
                 "open_issues": 32,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12383,
+                "stars": 12384,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -550,7 +550,7 @@
                 "open_issues": 4,
                 "owner": "atfortes",
                 "repo": "Awesome-Controllable-Diffusion",
-                "stars": 504,
+                "stars": 503,
                 "topics": [
                   "controlnet",
                   "customization",
@@ -592,7 +592,7 @@
                 "open_issues": 3,
                 "owner": "wenhaochai",
                 "repo": "Awesome-VQVAE",
-                "stars": 334,
+                "stars": 333,
                 "topics": [
                   "artificial-intelligence",
                   "machine-learning",
@@ -719,7 +719,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-01-10T09:09:13Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "ali-vilab",
                 "repo": "VGen",
                 "stars": 3153,
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9006,
+                "stars": 9010,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -866,7 +866,7 @@
                 "open_issues": 17,
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
-                "stars": 1547,
+                "stars": 1546,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -919,7 +919,7 @@
             "open_issues": 2,
             "owner": "archinetai",
             "repo": "audio-ai-timeline",
-            "stars": 1900,
+            "stars": 1899,
             "topics": [
               "artificial-intelligence",
               "audio-generation",
@@ -944,7 +944,7 @@
             "open_issues": 7,
             "owner": "ga642381",
             "repo": "speech-trident",
-            "stars": 1250,
+            "stars": 1249,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1006,7 +1006,7 @@
             "open_issues": 35,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8266,
+            "stars": 8265,
             "topics": [
               "agent",
               "large-language-models",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 488,
+            "open_issues": 495,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5980,
+            "stars": 5978,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3150,
+            "stars": 3148,
             "topics": [
               "agent",
               "agents",
@@ -1098,7 +1098,7 @@
             "open_issues": 75,
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2260,
+            "stars": 2259,
             "topics": [
               "awesome-list",
               "chatgpt",
@@ -1283,7 +1283,7 @@
             "open_issues": 13,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4503,
+            "stars": 4502,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1304,7 +1304,7 @@
             "open_issues": 10,
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2123,
+            "stars": 2122,
             "topics": [
               "airsim",
               "chatgpt",
@@ -1332,7 +1332,7 @@
             "open_issues": 11,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1528,
+            "stars": 1529,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1374,7 +1374,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1426,
+            "stars": 1424,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1395,7 +1395,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1241,
+            "stars": 1240,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -1449,7 +1449,7 @@
             "open_issues": 3,
             "owner": "RoboVerseOrg",
             "repo": "Simulately",
-            "stars": 554,
+            "stars": 553,
             "topics": [
               "awesome",
               "embodied-ai",
@@ -1477,7 +1477,7 @@
             "open_issues": 9,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2197,
+            "stars": 2196,
             "topics": [
               "agent",
               "causality",
@@ -1579,7 +1579,7 @@
             "open_issues": 3,
             "owner": "Thinklab-SJTU",
             "repo": "Awesome-LLM4AD",
-            "stars": 1907,
+            "stars": 1906,
             "topics": [
               "large-language-models",
               "vision-language-action-model",
@@ -1628,41 +1628,13 @@
           "description": "Collection of works about Mathematics + LLMs, see AI4Math for details\nReading List\nRelated Collections",
           "node_type": "group",
           "title": "♾️ AI for Math"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "CAJAL",
-              "description": ", A fine-tuned open-source LLM (Qwen3.6 base) specialized for generating publication-ready scientific papers. Runs 100% locally with 4B–9B parameters, ranked #3 on scientific paper benchmarks, surpassing most SOTA cloud models including Claude Sonnet 4.6 competitors.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CAJAL — Local scientific paper generator. Qwen 27B fine-tuned for academic writing. AI Tribunal peer review. 6x4 CognitionBoard. 2.7x token compression. Runs offline on RTX 3090. Apache 2.0.",
-                "homepage": null,
-                "id": 1227155975,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-11T08:07:36Z",
-                "open_issues": 0,
-                "owner": "Agnuxo1",
-                "repo": "CAJAL",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T07:03:09.164Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "📝 AI for Scientific Research"
         }
       ],
       "title": "🔬 Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:27:06.847Z",
+    "last_updated": "2026-11-20T04:13:29.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
