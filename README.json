@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18091,
+                "stars": 18090,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -206,7 +206,7 @@
                 "open_issues": 3,
                 "owner": "DirtyHarryLYL",
                 "repo": "LLM-in-Vision",
-                "stars": 871,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -227,7 +227,7 @@
                 "open_issues": 2,
                 "owner": "MarkMoHR",
                 "repo": "Awesome-Referring-Image-Segmentation",
-                "stars": 832,
+                "stars": 833,
                 "topics": [
                   "image-segmentation",
                   "instance-segmentation",
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9010,
+                "stars": 9008,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 495,
+            "open_issues": 500,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5978,
+            "stars": 5979,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3148,
+            "stars": 3149,
             "topics": [
               "agent",
               "agents",
@@ -1424,7 +1424,7 @@
             "id": 246048203,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-18T07:00:33Z",
+            "last_commit": "2026-11-20T08:01:01Z",
             "open_issues": 1,
             "owner": "zhenyingfang",
             "repo": "Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation",
@@ -1579,7 +1579,7 @@
             "open_issues": 3,
             "owner": "Thinklab-SJTU",
             "repo": "Awesome-LLM4AD",
-            "stars": 1906,
+            "stars": 1907,
             "topics": [
               "large-language-models",
               "vision-language-action-model",
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:13:29.585Z",
+    "last_updated": "2026-11-21T04:13:31.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
