@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18090,
+                "stars": 18091,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9008,
+                "stars": 9009,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1003,7 +1003,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-09-12T03:08:58Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
             "stars": 8265,
@@ -1030,7 +1030,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 500,
+            "open_issues": 505,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5979,
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3149,
+            "stars": 3150,
             "topics": [
               "agent",
               "agents",
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:13:31.194Z",
+    "last_updated": "2026-11-22T03:25:05.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
