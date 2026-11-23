@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18091,
+                "stars": 18093,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -227,7 +227,7 @@
                 "open_issues": 2,
                 "owner": "MarkMoHR",
                 "repo": "Awesome-Referring-Image-Segmentation",
-                "stars": 833,
+                "stars": 834,
                 "topics": [
                   "image-segmentation",
                   "instance-segmentation",
@@ -285,7 +285,7 @@
                 "open_issues": 1,
                 "owner": "sangminwoo",
                 "repo": "awesome-vision-and-language",
-                "stars": 568,
+                "stars": 569,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -647,7 +647,7 @@
                 "open_issues": 7,
                 "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3310,
+                "stars": 3311,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -722,7 +722,7 @@
                 "open_issues": 117,
                 "owner": "ali-vilab",
                 "repo": "VGen",
-                "stars": 3153,
+                "stars": 3152,
                 "topics": [
                   "diffusion-models",
                   "video-synthesis"
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9009,
+                "stars": 9011,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -780,7 +780,7 @@
                 "open_issues": 10,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2284,
+                "stars": 2285,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 505,
+            "open_issues": 511,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5979,
+            "stars": 5980,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1395,7 +1395,7 @@
             "open_issues": 3,
             "owner": "qingsongedu",
             "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "anomalydetection",
               "autoscaling",
@@ -1477,7 +1477,7 @@
             "open_issues": 9,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2196,
+            "stars": 2197,
             "topics": [
               "agent",
               "causality",
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:25:05.366Z",
+    "last_updated": "2026-11-23T03:56:40.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
