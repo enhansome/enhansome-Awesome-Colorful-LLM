@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6958,
+                "stars": 6959,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -361,7 +361,7 @@
                 "open_issues": 0,
                 "owner": "swordlidev",
                 "repo": "Efficient-Multimodal-LLMs-Survey",
-                "stars": 389,
+                "stars": 388,
                 "topics": [
                   "efficient",
                   "llm",
@@ -483,7 +483,7 @@
                 "open_issues": 32,
                 "owner": "diff-usion",
                 "repo": "Awesome-Diffusion-Models",
-                "stars": 12385,
+                "stars": 12386,
                 "topics": [
                   "artificial-intelligence",
                   "diffusion-models",
@@ -749,11 +749,11 @@
                 "id": 705222810,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T04:41:54Z",
+                "last_commit": "2026-11-25T08:58:37Z",
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9015,
+                "stars": 9016,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -941,7 +941,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-10T16:30:43Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "ga642381",
             "repo": "speech-trident",
             "stars": 1249,
@@ -962,7 +962,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-02T11:38:06Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "EmulationAI",
             "repo": "awesome-large-audio-models",
             "stars": 749,
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 525,
+            "open_issues": 529,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5982,
+            "stars": 5983,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1095,7 +1095,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-04-30T03:42:08Z",
-            "open_issues": 74,
+            "open_issues": 73,
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
             "stars": 2259,
@@ -1283,7 +1283,7 @@
             "open_issues": 13,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4503,
+            "stars": 4504,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1304,7 +1304,7 @@
             "open_issues": 10,
             "owner": "microsoft",
             "repo": "PromptCraft-Robotics",
-            "stars": 2123,
+            "stars": 2124,
             "topics": [
               "airsim",
               "chatgpt",
@@ -1613,7 +1613,7 @@
                 "open_issues": 0,
                 "owner": "yuz9yuz",
                 "repo": "Awesome-Scientific-Language-Models",
-                "stars": 667,
+                "stars": 669,
                 "topics": [
                   "ai4science",
                   "awesome-resources",
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T05:38:18.878Z",
+    "last_updated": "2026-11-26T05:22:50.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
