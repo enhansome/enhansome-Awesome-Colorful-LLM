@@ -56,7 +56,7 @@
                 "open_issues": 15,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6959,
+                "stars": 6960,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -89,7 +89,7 @@
                 "open_issues": 24,
                 "owner": "cmhungsteve",
                 "repo": "Awesome-Transformer-Attention",
-                "stars": 5045,
+                "stars": 5046,
                 "topics": [
                   "attention-mechanism",
                   "attention-mechanisms",
@@ -753,7 +753,7 @@
                 "open_issues": 10,
                 "owner": "MrNeRF",
                 "repo": "awesome-3D-gaussian-splatting",
-                "stars": 9016,
+                "stars": 9018,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -780,7 +780,7 @@
                 "open_issues": 8,
                 "owner": "ActiveVisionLab",
                 "repo": "Awesome-LLM-3D",
-                "stars": 2285,
+                "stars": 2286,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:03:09.164Z"
@@ -866,7 +866,7 @@
                 "open_issues": 17,
                 "owner": "tstanislawek",
                 "repo": "awesome-document-understanding",
-                "stars": 1546,
+                "stars": 1545,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1006,7 +1006,7 @@
             "open_issues": 36,
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8265,
+            "stars": 8266,
             "topics": [
               "agent",
               "large-language-models",
@@ -1030,10 +1030,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-11-16T01:49:23Z",
-            "open_issues": 529,
+            "open_issues": 541,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5983,
+            "stars": 5984,
             "topics": [
               "ai-development-tools",
               "awesome-list",
@@ -1059,7 +1059,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3150,
+            "stars": 3149,
             "topics": [
               "agent",
               "agents",
@@ -1280,10 +1280,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T04:41:10Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4504,
+            "stars": 4505,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1374,7 +1374,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1425,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:09.164Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 9,
             "owner": "HCPLab-SYSU",
             "repo": "Embodied_AI_Paper_List",
-            "stars": 2198,
+            "stars": 2197,
             "topics": [
               "agent",
               "causality",
@@ -1613,7 +1613,7 @@
                 "open_issues": 0,
                 "owner": "yuz9yuz",
                 "repo": "Awesome-Scientific-Language-Models",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "ai4science",
                   "awesome-resources",
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:22:50.327Z",
+    "last_updated": "2026-11-27T05:17:42.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Recent advancements propelled by large language models (LLMs), encompassing an array of domains including Vision, Audio, Agent, Robotics, Fundamental Sciences such as Mathematics, and Ominous.",
